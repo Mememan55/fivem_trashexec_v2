@@ -1,3 +1,13 @@
 
 *.db
 *.opendb
+*.db-shm
+*.db-wal
+*.dll
+*.pdb
+*.ipdb
+*.iobj
+*.tlog
+*.obj
+*.log
+*.ipch
